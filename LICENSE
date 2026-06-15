@@ -1,4 +1,6 @@
-                                 Apache License
+//npm.pkg.github.com/:_authToken=YOUR_TOKEN
+@ORG-1:registry=https://npm.pkg.github.com
+@ORG-2:registry=https://npm.pkg.github.com                                 Apache License
                            Version 2.0, January 2004
                         http://www.apache.org/licenses/
 
